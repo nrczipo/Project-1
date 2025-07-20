@@ -15,5 +15,7 @@ This project poses and seeks to answer the following four questions:
 This repository contains three different files.
 
 Student Survey Results 2024.csv is the that file contains the raw survey data from 2024 and is uncleaned
+
 Student Survey Results 2024 Cleaned.csv is the cleaned survey data which was cleaned in the Student Survey Analysis I.ipynb file
+
 Student Survey Analysis I.ipynb is the Jupyter notebook file that both cleans and analyzes the data contained within the Student Survey Results 2024 Cleaned.csv file
