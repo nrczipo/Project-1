@@ -11,7 +11,7 @@ This project poses and seeks to answer the following four questions:
 
   4.) Is there a type of class students would like to learn more about more than others? Perhpaps AI more than app development, for example.
 
-#Project Files
+# Project Files
 This repository contains three different files.
 
 Student Survey Results 2024.csv is the that file contains the raw survey data from 2024 and is uncleaned
